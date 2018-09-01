@@ -1,4 +1,6 @@
 Shopping List app written in JavaScript & HTML using the Electron.js framework.
+![alt text](https://github.com/alexlaurence/Electron-Shopping-List/blob/master/screenshot.png)
+
 
 ## Using
 
