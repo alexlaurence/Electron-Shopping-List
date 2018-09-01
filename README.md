@@ -18,7 +18,7 @@ $ npm start
 If you don't wish to clone, you can [download the source code](https://github.com/alexlaurence/Electron-Shopping-List/archive/master.zip).
 
 ## License
-MIT License © 2017-Present [Indomaxim Technology](https://github.com/IndomaximTechID). All rights reserved.
+MIT License © 2018-Present [Celestial Interactive](https://github.com/celestialinteractive). All rights reserved.
 
 ## End User License Agreement (EULA)
 - You will not use this repository for malicious activity.
