@@ -1,4 +1,4 @@
-Shopping List app written in JavaScript & HTML using the Electron API.
+Shopping List app written in JavaScript & HTML using the Electron.js framework.
 
 ## Using
 
