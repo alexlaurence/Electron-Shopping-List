@@ -1,7 +1,7 @@
 Shopping List app written in JavaScript & HTML using the Electron.js framework.
 
 <p align="center">
-<img src="https://github.com/alexlaurence/Electron-Shopping-List/blob/master/screenshot.png" data-canonical-src="https://github.com/alexlaurence/Electron-Shopping-List/blob/master/screenshot.png" width="500" height="1200"/>
+<img src="https://github.com/alexlaurence/Electron-Shopping-List/blob/master/screenshot.png" data-canonical-src="https://github.com/alexlaurence/Electron-Shopping-List/blob/master/screenshot.png" width="400" height="800"/>
 </p>
 
 
