@@ -15,7 +15,7 @@
   "author": "Alex Laurence",
   "license": "MIT",
   "dependencies": {
-    "electron": "^2.0.8"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "electron-packager": "^12.1.1"
